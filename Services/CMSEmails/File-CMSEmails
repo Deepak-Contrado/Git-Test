@@ -3,3 +3,7 @@ This is a test file for Limitededition.
 Under your repository name, click Settings. If you cannot see the "Settings" tab, select the dropdown menu, then click Settings. 
 
 On the "General" settings page (which is selected by default), scroll down to the "Danger Zone" section and click Delete this repository. Click I want to delete this repository.
+
+
+
+In the verbose listing that show the commit object name, show the shortest prefix that is at least <n> hexdigits long that uniquely refers the object. The default value is 7 and can be overridden by the core.abbrev config option.
